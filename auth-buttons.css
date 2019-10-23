@@ -34,6 +34,25 @@
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+	</head>
+<body style="height:815px">
+ 
+<div class="headerx">
+</div>
+ 
+<div class="header">
+<div id="img1" class="header" /><a href="index.html" target="_self"><img src="1234.png" width="500" height="150" alt=""/></a></div>
+ 
+<form method="post" action="">
+<div id="form1" class="header">Email or Username<br>
+<input placeholder="Email" type="mail" id="login" name="name" /><br>
+<input type="checkbox" id="login" />Keep me logged in</div>
+<div id="form2" class="header">Password<br>
+<input placeholder="Password" type="password" name="password"/><br>
+Forgotten my password!</div>
+<a href="pages/click hier/sky1.html">
+<div id="submit1" class="header"><input type="submit" id="button1" value="login"/></div></a>
+<button  onclick="window.location
     /* iOS */
     -webkit-appearance: hack; /* 1 */
     /* IE6/7 hacks */
